@@ -17,6 +17,7 @@ header,
     background-color: #24355c;
 }
 
+
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
         background-color: #24355c;
