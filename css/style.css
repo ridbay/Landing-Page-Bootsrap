@@ -1,7 +1,8 @@
 html,
 body,
 header,
-#intro {
+#intro,
+#contact {
     height: 100%;
 }
 
