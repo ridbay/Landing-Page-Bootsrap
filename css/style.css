@@ -22,6 +22,10 @@ header,
     cursor: pointer;
 }
 
+.font-size126 {
+    font-size: 100px
+}
+
 @media (max-width: 768px) {
     .navbar:not(.top-nav-collapse) {
         background-color: #24355c;
